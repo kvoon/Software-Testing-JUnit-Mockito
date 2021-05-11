@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="au.edu.sydney.pac.erp.client.ClientListImplTest" tests="32" skipped="0" failures="0" errors="0" timestamp="2020-04-28T11:59:57" hostname="Ken-Desktop" time="0.007">
+  <properties/>
+  <testcase name="testRemoveInvalidIDA" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testRemoveInvalidIDB" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.001"/>
+  <testcase name="testFindOneInvalidIDA" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testFindOneInvalidIDB" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testFindAllEmptyList" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testInvalidLastNameEntryNull" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.001"/>
+  <testcase name="testFindAllEmpty" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testInvalidPhoneNumberEmpty" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testFindAll" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testFindOne" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testClear" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testDuplicateID" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testInvalidFirstNameEntryEmpty" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testInvalidIDEntry" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.001"/>
+  <testcase name="testFindAllNull" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testInvalidFirstNameEntryNull" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testAddOneClientSize" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.001"/>
+  <testcase name="testFindAllNoParamVsFindAllFalse" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testInvalidEntryA" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testInvalidEntryB" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testInvalidPhoneNumberNull" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testFindAllNoParam" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testInvalidLastNameEntryEmpty" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testFindAllAssignedA" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testFindAllAssignedB" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testFindAllAssignedC" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testRemoveOneTrue" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testRemoveOne" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testFindAllNoParamNull" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testAddOneClient" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <testcase name="testFindAllAssignedDepartment" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.001"/>
+  <testcase name="testFindAllAssignedDepartmentEmpty" classname="au.edu.sydney.pac.erp.client.ClientListImplTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

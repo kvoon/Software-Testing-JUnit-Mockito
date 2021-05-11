@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="au.edu.sydney.pac.erp.client.ClientImplTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2020-04-28T11:59:57" hostname="Ken-Desktop" time="0.005">
+  <properties/>
+  <testcase name="testIsAssigned" classname="au.edu.sydney.pac.erp.client.ClientImplTest" time="0.0"/>
+  <testcase name="testNullAssignedDepartment" classname="au.edu.sydney.pac.erp.client.ClientImplTest" time="0.0"/>
+  <testcase name="testAssignDepartment" classname="au.edu.sydney.pac.erp.client.ClientImplTest" time="0.0"/>
+  <testcase name="testInitClient" classname="au.edu.sydney.pac.erp.client.ClientImplTest" time="0.0"/>
+  <testcase name="testGetDepartmentCodeNotAssigned" classname="au.edu.sydney.pac.erp.client.ClientImplTest" time="0.0"/>
+  <testcase name="testAssignDepartmentNotNull" classname="au.edu.sydney.pac.erp.client.ClientImplTest" time="0.0"/>
+  <testcase name="testPhoneNumberNull" classname="au.edu.sydney.pac.erp.client.ClientImplTest" time="0.0"/>
+  <testcase name="testIDNegativeA" classname="au.edu.sydney.pac.erp.client.ClientImplTest" time="0.0"/>
+  <testcase name="testIDNegativeB" classname="au.edu.sydney.pac.erp.client.ClientImplTest" time="0.0"/>
+  <testcase name="testPhoneNumberEmpty" classname="au.edu.sydney.pac.erp.client.ClientImplTest" time="0.0"/>
+  <testcase name="testIsNotAssigned" classname="au.edu.sydney.pac.erp.client.ClientImplTest" time="0.0"/>
+  <testcase name="testIDLessThanOne" classname="au.edu.sydney.pac.erp.client.ClientImplTest" time="0.001"/>
+  <testcase name="testLastNameNull" classname="au.edu.sydney.pac.erp.client.ClientImplTest" time="0.0"/>
+  <testcase name="testFirstNameEmpty" classname="au.edu.sydney.pac.erp.client.ClientImplTest" time="0.0"/>
+  <testcase name="testFirstNameNull" classname="au.edu.sydney.pac.erp.client.ClientImplTest" time="0.0"/>
+  <testcase name="testLastNameEmpty" classname="au.edu.sydney.pac.erp.client.ClientImplTest" time="0.0"/>
+  <testcase name="testAlreadyAssignDepartment" classname="au.edu.sydney.pac.erp.client.ClientImplTest" time="0.001"/>
+  <testcase name="testEmptyAssignDepartment" classname="au.edu.sydney.pac.erp.client.ClientImplTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
